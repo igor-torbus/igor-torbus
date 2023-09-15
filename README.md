@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, my name is Igor and I'm currently a high school student.<br>👀 I’m interested in technology and software engineering.<br>🌱 I’m currently learning JS, HTML and React.<br>📫 How to reach me here: igor.torbus@sarbonnet.baildonet.com
+👋 Hi, my name is Igor and I'm currently a high school student.<br>👀 I’m interested in technology and software engineering.<br>🌱 I’m currently learning JS, HTML and React.<br>📫 How to reach me here: igor.torbus@sarbonnet.com
 
 
 ## 🌐 Socials:
