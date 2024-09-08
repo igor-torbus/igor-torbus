@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, my name is Igor and I'm currently a college student.<br>👀 I’m interested in technology and software engineering.<br>🌱 I’m currently learning JS, HTML and React.<br>📫 How to reach me here: igor.torbus@sarbonnet.com
+👋 Hi, my name is Igor and I'm currently a Sophomore student at the University of Southern California.<br>👀 I’m interested in AI, Machine Learning, Robotics and Cybersecurity.<br>🌱 I’m currently learning JS, HTML and React.<br>📫 How to reach me here: igor.torbus@sarbonnet.com
 
 
 ## 🌐 Socials:
