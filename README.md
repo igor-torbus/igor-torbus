@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, my name is Igor and I'm currently a Sophomore student at the University of Southern California.<br>👀 I’m interested in AI, Machine Learning, Robotics and Cybersecurity.<br>🌱 I’m currently learning JS, HTML and React.
+👋 Hi, my name is Igor and I'm currently a Junior student at the University of Southern California.<br>👀 I’m interested in AI, Machine Learning, Robotics and Cybersecurity.<br>🌱 I’m currently learning JS, HTML and React.
 
 
 ## 🌐 Socials:
